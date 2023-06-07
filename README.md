@@ -1,4 +1,7 @@
 # ARYAN PARATAKKE
+
+[![](https://visitcount.itsvg.in/api?id=Aryan152005&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Welcome to my GitHub profile! I'm Aryan Paratakke, a passionate learner pursuing a BTech degree in Computer Science. I love coding and believe it's an art that allows me to shape the digital world. I'm constantly expanding my knowledge and skills, embracing new technologies, and exploring the endless possibilities of code. Let's connect and learn together in this exciting world of programming!<br>
 
@@ -22,10 +25,5 @@ Welcome to my GitHub profile! I'm Aryan Paratakke, a passionate learner pursuing
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryan152005&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryan152005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
