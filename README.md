@@ -9,11 +9,6 @@ Welcome to my GitHub profile! I'm Aryan Paratakke, enthusiastic AI/ML Engineer a
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanpartakke___15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-paratakke-43b879276) 
 
-# 💻 Tech Stack:
-Here's the updated and organized tech stack section with your badges:
-
----
-
 ### 💻 Tech Stack:
 
 #### **Programming Languages:**
